@@ -1,4 +1,4 @@
-# Boilerplate for creating React Npm packages with ES2015
+# For the publicaiton of cusmotized react components as npm package
 
 The package is based on [npm-base](https://github.com/kadirahq/npm-base) package by [Kadira](https://github.com/kadirahq) which is really great when you want to prepare Npm package. This one is prepared to be used as a starter point for React components which needs to be published on Npm.
 
@@ -14,18 +14,6 @@ Also there is of course ES6 transpilation.
 4. If you want to run linting: `npm test` or `npm run lint`. Fix bugs: `npm run lint-fix`. You can adjust your `.eslintrc` config file.
 5. If you want to run transpilation to ES5 in `dist` folder: `npm run prepublish` (standard npm hook).
 
-## CSS and preprocessors
-
-For more information check out this thread: [#5](https://github.com/juliancwirko/react-npm-boilerplate/issues/5)
-
-## Blog post about it:
-
-- [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015/)
-
-## Also check out
-
-- [React Alert UI component](https://github.com/juliancwirko/react-s-alert)
-- [React project boilerplate with Webpack, HMR, React Router](https://github.com/juliancwirko/react-boilerplate)
 
 ## License
 
