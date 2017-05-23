@@ -1,10 +1,10 @@
-# For the publicaton of customized react components as npm package
+# For the publication of customized react components as npm package
 
-The package is based on [npm-base](https://github.com/kadirahq/npm-base) package by [Kadira](https://github.com/kadirahq) which is really great when you want to prepare Npm package. This one is prepared to be used as a starter point for React components which needs to be published on Npm.
+The package is based on [npm-base](https://github.com/kadirahq/npm-base) package by [Kadira](https://github.com/kadirahq) which is really great when you want to prepare Npm package. This one is prepared to be used as a starting point for React components which needs to be published on Npm.
 
 It includes linting with [ESLint](http://eslint.org/) and testing with [Mocha](https://mochajs.org/), [Enzyme](http://airbnb.io/enzyme/) and [JSDOM](https://github.com/tmpvar/jsdom).
 
-Also there is of course ES6 transpilation.
+Also there is ES6 transpilation as well.
 
 ## Usage
 
