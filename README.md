@@ -1,4 +1,4 @@
-# For the publicaton of cusmotized react components as npm package
+# For the publicaton of customized react components as npm package
 
 The package is based on [npm-base](https://github.com/kadirahq/npm-base) package by [Kadira](https://github.com/kadirahq) which is really great when you want to prepare Npm package. This one is prepared to be used as a starter point for React components which needs to be published on Npm.
 

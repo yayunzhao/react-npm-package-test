@@ -1,7 +1,7 @@
 {
   "name": "react-npm-package-test",
   "version": "1.0.3",
-  "description": "For the publicaton of cusmotized react components as npm package",
+  "description": "For the publicaton of customized react components as npm package",
   "homepage": "https://github.com/juliancwirko/react-npm-boilerplate",
   "keywords": [
     "react-component",
