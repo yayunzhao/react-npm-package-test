@@ -1,16 +1,7 @@
 {
   "name": "react-npm-package-test",
   "version": "1.0.3",
-  "description": "Boilerplate for creating React Npm packages with ES2015",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/juliancwirko/react-npm-boilerplate.git"
-  },
-  "author": "Julian Ćwirko",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/juliancwirko/react-npm-boilerplate/issues"
-  },
+  "description": "For the publicaiton of cusmotized react components as npm package",
   "homepage": "https://github.com/juliancwirko/react-npm-boilerplate",
   "keywords": [
     "react-component",
